@@ -3,6 +3,25 @@
 ## 1. Overview
 Developed a detailed Tableau dashboard focused on analyzing granular, time-series household energy consumption data (e.g., hourly/daily meter readings). The project provides clear visualizations of consumption patterns, helping to identify energy wastage and peak demand periods.
 
+## 🖼️ Energy Consumption Analysis Dashboard
+This visual summarizes the global energy landscape, focusing on two key metrics:
+
+* **KWH (Kilowatt-Hour):** The actual measured energy consumption.
+* **CSU (Cost Saving Unit):** A calculated metric representing potential cost savings or efficiency gains.
+
+The dashboard provides granular and aggregated views across three dimensions:
+
+| Dimension | KWH Consumption | CSU Savings |
+| :--- | :--- | :--- |
+| **By Country** | Shows granular national usage and savings figures. |
+| **By Region** | Provides aggregated continental comparison (e.g., Africa, Asia, Europe). |
+| **By Energy Source** | Breaks down consumption and potential savings by source (e.g., Biomass, Geothermal, Solar, Wind). |
+
+****
+![Household Energy Consumption Dashboard](household_energy_tableau_dashboard.jpg)
+
+---
+
 ### 🎯 Goal
 To accurately measure and visualize energy usage over time, identify seasonal and daily peak consumption, and provide actionable insights for users aiming to reduce utility costs and optimize appliance usage.
 
@@ -25,5 +44,4 @@ To accurately measure and visualize energy usage over time, identify seasonal an
 - **Tableau Mastery:** Showcased proficiency in handling, aggregating, and visualizing dense, continuous **time-series data**—a fundamental skill for BI analysts.
 
 ## 5. View Project
-- **Live Interactive Dashboard:** [Insert Your Tableau Public Link HERE]
 - **Source File:** [Your Tableau Workbook Name].twb / .twbx (Available in this repository)
