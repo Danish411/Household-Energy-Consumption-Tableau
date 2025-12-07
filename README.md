@@ -18,7 +18,7 @@ The dashboard provides granular and aggregated views across three dimensions:
 | **By Energy Source** | Breaks down consumption and potential savings by source (e.g., Biomass, Geothermal, Solar, Wind). |
 
 ****
-![Household Energy Consumption Dashboard](household_energy_tableau_dashboard.jpg)
+![Household Energy Consumption Dashboard](household_energy_tableau_dashboard.png)
 
 ---
 
